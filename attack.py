@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Ddos Attacker
 # Coded by Senja
-# Github: github.com/thesixtynine/Ddosattack
+# Github: github.com/thedarksec/Ddosattack
 
 import os, sys, time, random, socket, string
 
@@ -38,7 +38,7 @@ print logo
 print
 print("\033[0m[\033[94;1m#\033[0m] Denial of Service ")
 print("\033[0m[\033[93;1m*\033[0m] Coded by Senja ")
-print("\033[0m[\033[96;1m&\033[0m] My Github: @thesixtynine ")
+print("\033[0m[\033[96;1m&\033[0m] My Github: @thedarksec ")
 time.sleep(1)
 print
 
