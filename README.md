@@ -1,5 +1,5 @@
 # Screenshot:
-![](./images/Screenshoot.png)
+![](./Screenshot.png)
 # Usage:
 ```
 pkg update && pkg upgrade
@@ -8,7 +8,7 @@ apt-get install python2
 git clone https://github.com/thedarksec/Ddosattack
 cd Ddosattack
 ls
-python2 attack.py
+python2 ddosattack.py
 ```
 # Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
