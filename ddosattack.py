@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/python
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Ddosattack
 # Coded by Nedi Senja
