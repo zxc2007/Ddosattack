@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Language-Python2-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Ddosattack/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-GPL%203-red.svg">
+    <img src="https://img.shields.io/badge/License-Apache-red.svg">
   </a>
   <a href="https://opensource.org">
     <img src="https://img.shields.io/badge/Open%20Source-●-success.svg">
