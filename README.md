@@ -28,7 +28,7 @@
 ```text
 Name        : Ddosattack
 Version     : 3.2 (Update: 21 December 2020, 7:00 PM)
-Tanggal     : 10 June 2019
+Date        : 10 June 2019
 Author      : Nedi Senja
 Purpose     : To overwhelm Webhosting
               just a simple script
