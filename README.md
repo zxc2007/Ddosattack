@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Open%20Source-●-success.svg">
   </a>
 </p>
-<h4 align="center">Tampilan</h4>
+<h4 align="center">Screenshot</h4>
 <p align="center">
   <img src="Skrinsut.png" width="300">
 </p>
