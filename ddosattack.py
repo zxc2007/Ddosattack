@@ -10,8 +10,8 @@ from datetime import datetime
 
 info = """
 Nama        : Ddosattack
-Versi       : 3.2 (Update: 21 Desember 2020, 7:00 PM)
-Tanggal     : 10 Juni 2019
+Versi       : 1.0 (Update: 24 April 2020, 5:00 PM)
+Tanggal     : 1 Juni 2019
 Author      : Nedi Senja
 Tujuan      : Untuk membanjiri Webhosting
               hanya script sederhana
