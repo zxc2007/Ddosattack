@@ -1,14 +1,14 @@
 <h1 align="center">Ddosattack</h1>
-<h5 align="center">DoS (Denial of Service) is a type of attack on a computer or server on the internet network by consuming resources that are owned by the computer until the computer cannot perform its function properly so that it indirectly prevents other users from gaining access to services from the computer who attacked it</h5>
+<h6 align="center">DoS (Denial of Service) is a type of attack on a computer or server on the internet network by consuming resources that are owned by the computer until the computer cannot perform its function properly so that it indirectly prevents other users from gaining access to services from the computer who attacked it</h6>
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Language-Python2-blue.svg">
+    <img src="https://img.shields.io/badge/pythn-2.7.17-blue.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Ddosattack/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache-red.svg">
+  <a href="http://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/badge/license-Apache-red.svg">
   </a>
   <a href="https://opensource.org">
-    <img src="https://img.shields.io/badge/Open%20Source-●-success.svg">
+    <img src="https://img.shields.io/badge/open%20source-❤-green.svg">
   </a>
 </p>
 <h4 align="center">Screenshot</h4>
@@ -27,8 +27,8 @@
 ### Information:
 ```text
 Name        : Ddosattack
-Version     : 3.2 (Update: 21 December 2020, 7:00 PM)
-Date        : 10 June 2019
+Version     : 1.0 (Update: 24 April 2020, 5:00 PM)
+Date        : 1 June 2019
 Author      : Nedi Senja
 Purpose     : To overwhelm Webhosting
               just a simple script
