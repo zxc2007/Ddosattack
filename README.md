@@ -2,7 +2,7 @@
 <h6 align="center">DoS (Denial of Service) is a type of attack on a computer or server on the internet network by consuming resources that are owned by the computer until the computer cannot perform its function properly so that it indirectly prevents other users from gaining access to services from the computer who attacked it</h6>
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/pythn-2.7.17-blue.svg">
+    <img src="https://img.shields.io/badge/python-2.7.17-blue.svg">
   </a>
   <a href="http://www.apache.org/licenses/LICENSE-2.0">
     <img src="https://img.shields.io/badge/license-Apache-red.svg">
