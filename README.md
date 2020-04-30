@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/python-2.7.17-blue.svg">
   </a>
-  <a href="https://raw.githubusercontent.com/stepbystepexe/Spoofing/master/LICENSE">
+  <a href="https://raw.githubusercontent.com/stepbystepexe/Ddosattack/master/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache-red.svg">
   </a>
   <a href="https://opensource.org">
@@ -13,7 +13,7 @@
 </p>
 <h4 align="center">Screenshot</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stepbystepexe/Spoofing/master/Screenshot.png" width="300">
+  <img src="https://raw.githubusercontent.com/stepbystepexe/Ddosattack/master/Screenshot.png" width="300">
 </p>
 <h5>
 <p align="center">
