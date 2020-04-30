@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/python-2.7.17-blue.svg">
   </a>
-  <a href="http://www.apache.org/licenses/LICENSE-2.0">
+  <a href="https://raw.githubusercontent.com/stepbystepexe/Spoofing/master/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache-red.svg">
   </a>
   <a href="https://opensource.org">
@@ -13,7 +13,7 @@
 </p>
 <h4 align="center">Screenshot</h4>
 <p align="center">
-  <img src="Skrinsut.png" width="300">
+  <img src="https://raw.githubusercontent.com/stepbystepexe/Spoofing/master/Screenshot.png" width="300">
 </p>
 <h5>
 <p align="center">
@@ -27,7 +27,7 @@
 ### Information:
 ```text
 Name        : Ddosattack
-Version     : 1.0 (Update: 24 April 2020, 5:00 PM)
+Version     : 1.1 (Update: 30 April 2020, 5:00 PM)
 Date        : 1 June 2019
 Author      : Nedi Senja
 Purpose     : To overwhelm Webhosting
